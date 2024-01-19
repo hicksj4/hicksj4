@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/arrangement-view(1).jpg
-title: "Music"
+title: "Music Production / Music Composition"
 date: 2015
 published: true
 labels:
   - Ableton
   - Soundcloud
-summary: "My Soundcloud and an Early Song of Mine that Got Mildly Popular"
+summary: "My soundcloud and an early song I wrote that got mildly popular (100k plays)!"
 ---
 
 <img class="img-fluid" src="../img/Screenshot 2024-01-18 222329.png">
