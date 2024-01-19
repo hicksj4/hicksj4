@@ -8,7 +8,7 @@ published: true
 labels:
   - eBay
   - Collectibles
-summary: "My eBay Store which focuses primarily on collectibles."
+summary: "My eBay Store which focuses primarily on collectibles. Over 2000 items sold."
 ---
 
 [eBay Store](https://www.ebay.com/usr/thabigcat808)
