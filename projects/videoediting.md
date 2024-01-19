@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ebay_PNG22.png
+image: img/fgSXHMb8LtXJyYJT7f9Lg7.jpg
 title: "Video Editing"
 date: 2020
 published: true
