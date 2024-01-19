@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/arrangement-view(1).jpg
 title: "Music"
 date: 2015
 published: true
