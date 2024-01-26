@@ -74,5 +74,5 @@ This "question" is honestly somewhat an impressively bad question. We can almost
 
 In regards to smart questions, I think it is important to reflect on the fact that you are asking people (real people, unless you ask ChatGPT) for help with a problem. Knowing that someone is on the other side should make you reflect on how to respect their time for helping you with a problem. This is why a "not" so smart question not only wastes the replier's time (if they reply at all), but it doesn't benefit you as well in that maybe you should think more hardly about your question or you should at least attempt to format it properly to respect the community you are asking the question to. This understanding can not only be beneficial for your career/social life, but can help in your coding as well! Everyone likes when code is well written and that goes the same for a well written question.
 
-Here is a link to [Smart Question](https://stackoverflow.com/questions/77874543/handle-state-when-generate-multiple-forms-on-a-button-click).
-I was not able to get the link to the bad question because StackOverflow deleted the page by the time I finished writing about it!
+Here is a link to [Smart Question](https://stackoverflow.com/questions/77874543/handle-state-when-generate-multiple-forms-on-a-button-click).<br>
+Here is a link to [Not So Smart Question](https://stackoverflow.com/questions/77884940/how-to-find-the-average-age-of-three-people-using-prompt-in-javascript). It got deleted!!
