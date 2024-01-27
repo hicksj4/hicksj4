@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Hope to Turn a Hobby Into A Career"
+title: "The Hope to Turn a Hobby Into a Career"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-26
 published: true
