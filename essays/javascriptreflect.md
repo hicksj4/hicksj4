@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="img-fluid" src="../img/Screenshot 2024-01-18 222329.png">
+<img class="img-fluid" src="../img/1 LyZcwuLWv2FArOumCxobpA.png">
 
 ## A Reflection On Beginning To Learn Javascript
 
