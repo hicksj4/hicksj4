@@ -1,19 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "The Beginning of a Javascript Journey"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-25
+date: 2024-01-26
 published: false
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Javascript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
-## Why is asking a "smart question" important in software engineering (or in most all subjects that can be questioned!)?
+## A Reflection On Beginning To Learn Javascript
 
 My C professor, who is teaching our Program Structure course, reassured during class that there is "no stupid question". In classroom settings, this is generally accepted, as for the most part no one is brave/outspoken enough to ask questions, thus when the professor asks "Any questions?" there may be only a few replies. However, in the world wide web that connects everyone 24/7 today, asking a "stupid question" can be detrimental to not only yourself, but the community you ask it to. This is why we must learn a form of internet etiquette and understanding of how to ask a smart question. This idea of asking a smart question does not just relate to software engineering, but just topics that can be questioned at all (ie. Mathmematics, Finance, Physics, etc..). The importance of asking a smart question, should be that it not only benefits you as to help with your problem, but to also provoke others/the community to think about your question and reflect on it, thus also helping their own understanding.
 
