@@ -10,7 +10,7 @@ labels:
   - Clean Code
 ---
 
-<img class="img-fluid" src="../img/1 LyZcwuLWv2FArOumCxobpA.png">
+<img class="img-fluid" src="../img/bad_code_2x.png">
 
 ## The Importance of Clean Code
 
