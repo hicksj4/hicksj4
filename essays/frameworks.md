@@ -13,7 +13,7 @@ labels:
 
 <img class="img-fluid" src="../img/Screenshot 2024-02-22 220418.png">
 
-## UI Frameworks; Well-Designed Websites And Their Implications
+## UI Frameworks; Well-Designed Websites And Their Benefits
 
 UI frameworks such as Bootstrap, as we've been learning in class, have become one of the standards of implementation in regards to front-end frameworks and web development. But why is it that it became so popular? I believe what the creators of Bootstrap sought to achieve was a cohesiveness between design and tech in regards to websites. This idealogy of creating more user-friendly interfaces for front-end seems like a somewhat more modern idea, especially if you've been using the internet > 10 years. The reasons why I believe this was a step in right direction for the internet as a whole, can connect back to my previous essay about tidy code. When you have an easily understandable, intuitive, and aesthetically pleasing website, it becomes much easier for the user to use. This idea of ease of use for the user is good for numerous reasons, but the main ones that can be seen as tangible results is that, in my opinion, one, that a better designed website will increase the chances a user engages with the website, whether that be participating in the forums or purchasing something. My second reason, one that I've felt had been overlooked as a kid on the internet, is that it makes it much easier for non-tech literate people to participate as well. I believe especially with reason 2 is why the internet is as popular/incredibly widespread as it it.
 
