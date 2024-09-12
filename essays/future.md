@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The Hope to Turn a Hobby Into a Career"
+title: "From Curiosity to Creation"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-26
+date: 2024-09-11
 published: true
 labels:
   - Goals
   - Game Development
-  - Hobbies
+  - Software Development
 ---
 
 <img class="img-fluid" src="../img/xo2iBtCxoHCUyuhiKRYLFf.jpg">
