@@ -17,3 +17,5 @@ For my ICS 311 final paper, I delved into the deeper workings of the engine util
 <img class="img-fluid" src="../img/Binary_space_partition.png">
 
 Above is simple example of essentially how binary space partitioning was utilized with the map files in Doom. Think of the overall shape seen above as the top down 2D view of the map that is in the game. The sections of the map are divided into a tree structure, which helps determine which areas of the map need to be rendered depending on where the player character (you) are viewing. The BSP tree structure of the map is used to determine what parts of the map are visible from the player's current position and viewing angle. The game engine starts rendering from the player's position and moves forward through the tree, prioritizing visible surfaces in front of the player.
+
+A link to the paper : https://docs.google.com/document/d/1vllxXh5O_0GWxGrbAjIGfFCpPITA7LavtaLB3MWYlaI/edit?usp=sharing
