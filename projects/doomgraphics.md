@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/doom-1993-id-1638823790037.png
 title: "A Look Into Doom's (1993) Engine"
-date: 2015
+date: 2016
 published: true
 labels:
   - Game Development
