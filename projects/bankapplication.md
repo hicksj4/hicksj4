@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/arrangement-view(1).jpg
+image: img/000_F_306938279_ezPVDtcNE0Q2Z1JOFPfYowmvFbzp1T4W.jpg
 title: "Bank Database Application"
 date: 2015
 published: true
