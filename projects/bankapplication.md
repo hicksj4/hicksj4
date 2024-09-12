@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/database_1.jpg
 title: "Bank Database Application"
-date: 2015
+date: 2016
 published: true
 labels:
   - C
