@@ -4,7 +4,7 @@ type: project
 image: img/ebay_PNG22.png
 title: "eBay Store"
 date: 2020
-published: true
+published: false
 labels:
   - eBay
   - Collectibles
