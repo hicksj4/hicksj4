@@ -4,7 +4,7 @@ type: project
 image: img/fgSXHMb8LtXJyYJT7f9Lg7.jpg
 title: "Video Editing"
 date: 2020
-published: true
+published: false
 labels:
   - Video Editing
   - DaVinci Resolve
