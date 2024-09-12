@@ -1,18 +1,17 @@
 ---
 layout: project
 type: project
-image: img/arrangement-view(1).jpg
-title: "Audio Engineering / Music Composition"
+image: img/doom-1993-id-1638823790037.png
+title: "A Look Into Doom's (1993) Engine"
 date: 2015
-published: false
+published: true
 labels:
-  - Ableton
-  - Audio Engineering
-summary: "Writing, mixing, and mastering original music with some success, experience in sound design and composition."
+  - Game Development
+  - Computer Graphics
+  - Rendering Optimization
+summary: "Exploring the innovative graphical techniques in Doom (1993) and Quake (1996) that revolutionized real-time rendering and set new standards in video game development."
 ---
 
 <img class="img-fluid" src="../img/Screenshot 2024-09-11 214037.png">
 
-As a hobby I've written music for multiple years now. I almost entirely work in the digital audio workstation Ableton, where I compose, mix, and master original music. Over the years, I have created many full songs, handling everything from synth work to drums and guitar compositions. My expertise extends to using industry-standard tools like Izotope Ozone for mixing and mastering and Fabfilter VSTs for precise mixing, ensuring high-quality production values in every track.
-
-I have achieved notable success with my work, including two tracks that garnered over 100k plays and one that went viral on TikTok, accumulating over 200k plays. While music production is a personal hobby, it has provided me with a deep understanding of audio engineering, sound design, and creative composition, showcasing my ability to create engaging and widely appreciated music. For the sake of anonymity, I won't share the songs specifically but will show a screenshot from Spotify's reported statistics they send artists.
+For my ICS 311 final paper, I delved into the deeper workings of the engine utilized in id Software's game Doom (1993). The focus is on id Software’s pioneering role in pushing the technological boundaries of video game graphics, particularly within the first-person shooter genre. The analysis begins with Doom (1993), highlighting its use of Binary Space Partitioning (BSP) trees to optimize graphics rendering on the limited hardware of the time. Doom’s graphical innovation stemmed from the need to improve upon the costly ray-casting technique used in its predecessor, Wolfenstein 3D. By employing BSP trees, Doom efficiently managed hidden-surface determination, rendering only the visible parts of a game level to reduce the computational load on the CPU. This technique allowed Doom to achieve smoother and more immersive gameplay, setting a new standard for performance in video games. The transition from Doom to Quake (1996) marks an evolution from 2.5D to true 3D rendering, with Quake building upon the BSP tree structure by introducing Potential Visible Set (PVS) calculations.
