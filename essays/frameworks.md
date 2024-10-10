@@ -33,7 +33,7 @@ An example of Bootstrap's Conciseness vs. Implementing in Raw HTML/CSS
   </div>
 </div>
 
-versus
+<!-- VERSUS -->
 
 <!DOCTYPE html>
 <html>
