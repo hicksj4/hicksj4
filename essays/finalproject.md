@@ -15,7 +15,7 @@ labels:
 
 The problem: Many university students possess artistic talents across various disciplines such as music, visual arts, design, and more. However, there is no centralized platform tailored to the university community where they can showcase their work in one space. Existing social media platforms are either too broad or not conducive to fostering a local artistic community within the campus.
 
-The solution: ArtShare is a web application designed exclusively for university students to share short snippets of their creative works. It features a scrollable feed where users can view posts and like them fostering interaction and collaboration among student artists. Essentially a spinoff idea of Campus Jam project, but with a more Instagram/Tiktok approach to the feed page. Will utilize Soundcloud embedding to play the music without redirecting to the site and if possible utilziing DigitalOcean Image handling/storage for images/artwork, thus staying centralized on the ArtShare feed.
+The solution: ArtShare is a web application designed exclusively for university students to share short snippets of their creative works. It features a scrollable feed where users can view posts and like them fostering interaction and collaboration among student artists. Essentially a spinoff idea of Campus Jam project, but with a more Instagram/Tiktok approach to the feed page. Will utilize Soundcloud embedding to play the music without redirecting to the site and if possible uilizing DigitalOcean Image handling/storage for images/artwork, thus staying centralized on the ArtShare feed.
 
 ## Approach
 
