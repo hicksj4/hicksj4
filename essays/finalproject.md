@@ -21,7 +21,7 @@ The solution: ArtShare is a web application designed exclusively for university 
 
 ArtShare allows students to:
 
-- Create Profiles: Students can sign up using their university credentials to create a profile that includes their artistic interests, bio, and a portfolio of their works.
+- Create Profiles: Students/Users can sign up to create a profile that includes their artistic interests, bio, and a portfolio/line to SC/Youtube/Behance etc. of their works.
 
 - Share Creative Works: Users can upload images of their artwork or embed links to external media (e.g., SoundCloud tracks, YouTube videos) showcasing their music or performance pieces. Each post can include a description and tags for better discoverability.
 
