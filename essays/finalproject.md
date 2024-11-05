@@ -25,10 +25,10 @@ ArtShare allows students to:
 
 - Share Creative Works: Users can upload images of their artwork or embed links to external media (e.g., SoundCloud tracks, YouTube videos) showcasing their music or performance pieces. Each post can include a description and tags for better discoverability.
 
-- Engage with Content: The platform features a scrollable feed where users can view posts from others, like, and comment to provide feedback and encouragement.
+- Engage with Content: The platform features a scrollable feed where users can view/listen to posts from others and like the post to provide feedback and encouragement.
 
-- Discover Artists: Users can search for and filter posts by categories such as art form, genre, or tags. This helps them find content and creators that match their interests.
-
+- Discover Artists: Users can filter posts by categories : sound or art. (or both)!
+  
 - Admin Oversight: Administrators monitor the platform for inappropriate content, manage categories and tags, and ensure the community remains respectful and supportive.
 
 Technical Stack:
@@ -42,7 +42,7 @@ Technical Stack:
 
 Landing Page:
 
-- Introduction to ArtShare with a call-to-action to sign up or log in.
+- Introduction to ArtShare with photo, Header with Login and Footer.
 
 User Home Page (Feed):
 
@@ -56,16 +56,16 @@ Profile Page:
 
 Post Creation Page:
 
-- Form for creating a new post with fields for description, tags, and media upload or embed link.
+- Form for creating a new post with fields for description, tags (sound or art), and media upload or embed link.
 
 Post Detail Page:
 
 - Displays the post's media content, description, and likes count.
-    Allows users to 'like'/'heart' the post.
+    Allows users to like/heart the post.
 
 Search and Discovery Page:
 
-- Search bar and filters to find posts or artists by category, tags, or keywords.
+- Search bar and filters to find posts or artists by category or keywords.
 
 Admin Dashboard:
 
