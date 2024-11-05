@@ -42,7 +42,7 @@ Technical Stack:
 
 Landing Page:
 
-- Introduction to ArtShare with photo, Header with Login and Footer.
+- Introduction to ArtShare with short description/call to action and cool photo background. Header with Login and Footer.
 
 User Home Page (Feed):
 
