@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
-date: 2024-11-25
+date: 2024-11-05
 published: true
 labels:
   - Final Project
