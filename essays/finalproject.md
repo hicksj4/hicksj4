@@ -76,7 +76,7 @@ Admin Dashboard:
 
 Notifications:
 
-- Real-time notifications for likes and new followers.
+- Real-time notifications for likes.
 
 Comment Functionality:
 
