@@ -6,9 +6,7 @@ title: "Final Project Idea"
 date: 2024-11-25
 published: false
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Final Project
 ---
 
 ## Project: ArtShare (Working Title)
@@ -63,7 +61,7 @@ Post Creation Page:
 Post Detail Page:
 
     Displays the post's media content, description, and likes count.
-    Allows users to like the post (maybe comment functionality?)
+    Allows users to 'like'/'heart' the post.
 
 Search and Discovery Page:
 
