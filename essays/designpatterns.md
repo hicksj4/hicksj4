@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-## Design Patterns and Games
+<img class="img-fluid" src="../img/BECreativeInventory_(Pocket).png">
 
 ## Overview
 
