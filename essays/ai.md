@@ -11,7 +11,7 @@ labels:
   - LLM
 ---
 
-<img class="img-fluid" src="../img/BECreativeInventory_(Pocket).png">
+<img class="img-fluid" src="../img/ai-1.jpg">
 
 ## Introduction
 
