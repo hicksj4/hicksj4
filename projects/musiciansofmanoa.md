@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/musicians-of-manoa-logo-transparent.png
+image: img/musicians-of-manoa-logo2.png
 title: "Musicians of Manoa"
 date: 2017
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A Web Application Designed with React and PostgreSQL with the intent of connecting local musicians together and informing musicians of local events they can participate in."
 ---
 
-<img class="img-fluid" src="img/Screenshot 2024-12-20 125430.png">
+<img class="img-fluid" src="..img/Screenshot 2024-12-20 125430.png">
 
 ## Overview
 
