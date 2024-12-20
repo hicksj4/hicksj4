@@ -4,7 +4,7 @@ type: project
 image: img/arrangement-view(1).jpg
 title: "Audio Engineering / Music Composition"
 date: 2015
-published: true
+published: false
 labels:
   - Ableton
   - Audio Engineering
