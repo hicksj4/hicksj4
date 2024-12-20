@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/musicians-of-manoa-transparent.png
+image: img/musicians-of-manoa-logo-transparent.png
 title: "Musicians of Manoa"
 date: 2017
 published: true
