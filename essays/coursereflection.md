@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" src="../img/shridhar-gupta-dZxQn4VEv2M-unsplash.jpg">
+<img class="img-fluid" src="../img/office-1.jpg">
 
 ## Introduction
 
