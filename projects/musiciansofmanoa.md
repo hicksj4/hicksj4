@@ -12,7 +12,7 @@ labels:
 summary: "A Web Application Designed with React and PostgreSQL with the intent of connecting local musicians together and informing musicians of local events they can participate in."
 ---
 
-<img class="img-fluid" src="..img/Screenshot 2024-12-20 125430.png">
+<img class="img-fluid" src="..img/landingpage.png">
 
 ## Overview
 
