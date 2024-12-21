@@ -19,6 +19,10 @@ labels:
 
 To make a more interesting analogy for design patterns, in the same vein as my essay about Doom's creation, I want to connect our design patterns we learned to the popular game Minecraft.
 
+<div style="clear: both;"></div>
+
+<br>
+
 ## Model View Controller Pattern
 
 <hr>
