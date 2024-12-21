@@ -11,8 +11,6 @@ labels:
 
 <img width="450px" class="rounded float-start pe-4" src="../img/BECreativeInventory_(Pocket).png">
 
-<hr>
-
 ## Overview
 
 <hr>
