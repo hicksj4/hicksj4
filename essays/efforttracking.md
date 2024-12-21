@@ -10,13 +10,11 @@ labels:
   - Github
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/office-1.jpg">
-
 ## Introduction
 
 <hr>
 
-Looking back at this semester and in particular, the course ICS 314 : Software Engineering, I think it may have been one of the best courses I've taken during my CS degree. The course was fast paced and sometimes hard to keep up with, but was effective in teaching you general software engineering experience and knowledge overall. From the WOD's to the final project, I think this was a well designed course that should be an essential exeperience for anyone pursuing a software development driven career.
+Over the development of our project : Musicians of Manoa, we kept a time tracking of how long we would estimate each issue to take to finish. After we finished the issue we would then record the actual time it took to finish each issue, this led to some insights on the productivity and how my estimations on how long an issue will take were alnmost always incorrect.
 
 ## Configuration Management
 
