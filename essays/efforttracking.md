@@ -4,7 +4,7 @@ type: essay
 title: "Effort Tracking : Or How To Underestimate How Long a Project Takes"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-20
-published: false
+published: true
 labels:
   - Production
   - Github
