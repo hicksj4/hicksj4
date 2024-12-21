@@ -11,9 +11,7 @@ labels:
   - LLM
 ---
 
-<img class="img-fluid" src="../img/ai-1.jpg">
-
-<hr>
+<img width="600px" class="rounded float-start pe-4" src="../img/ai-1.jpg">
 
 ## Introduction
 
