@@ -28,8 +28,6 @@ For my method of estimation on how long an issue would take, there wasn't really
 
 Looking back at the data, I would say generally my estimations were always off in that it always took longer than I would estimate. I wouldn't be terribly off in my estimates, but it would always be around 30 to 2 hours longer in terms of actual effort than I had initially estimated. I generally don't think there was a benefit to these inital estimates because thankfully the way our efforts were structured between teammates, we didn't need to generally rely on each other to complete sections such that another member could start working. For example, since I worked a lot on the landing page, this wouldn't affect the 'Search Jams' page at all. The isolation of efforts helped our team work smoothly.
 
-<br>
-
 I believe there were some benefits in seeing the actual effort expended on issues. One being that it gives you insight on your own personal estimations of your skill and alotted time to complete a problem. What I took away from this project is that I generally underestimated the time I took to finish a problem and should give myself more time for each issue I assign myself to in the future.
 
 ## Method of Actual Estimation
