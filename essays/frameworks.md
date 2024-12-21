@@ -11,7 +11,7 @@ labels:
   - HTML/CSS
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-icons.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/bootstrap-icons.png">
 
 ## The Power of UI Frameworks in Web Development
 
