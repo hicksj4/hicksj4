@@ -25,8 +25,6 @@ summary: "A Web Application Designed with React and PostgreSQL with the intent o
   </div>
 </div>
 
-<hr>
-
 ## Overview
 
 <hr>
