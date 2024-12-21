@@ -101,8 +101,12 @@ An example of Bootstrap's Conciseness vs. Implementing in Raw HTML/CSS
 
 ## Consistency and Maintainability
 
+<hr>
+
 Another benefit of UI frameworks is the consistency they bring to projects. Using a framework like Bootstrap ensures that all developers on a team follow the same design patterns. This reduces discrepancies and maintains a cohesive look throughout the website. Frameworks also promote maintainability. Since most frameworks are well-documented, updating and fixing issues becomes easier, even for those who didn’t originally work on the project.
 
 ## Conclusion
+
+<hr>
 
 While there’s a learning curve to using frameworks, the advantages they bring to the table are tangible, especially in an team context. From speeding up development to ensuring consistent, responsive designs, UI frameworks like Bootstrap make web development more efficient and enjoyable. They offer a solution to many of the challenges posed by raw HTML and CSS, enabling developers to create user-friendly and attractive websites with minimal hassle. Based on my own experience, using a UI framework is a worthy investment for both personal and professional projects.
