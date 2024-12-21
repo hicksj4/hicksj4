@@ -21,6 +21,8 @@ One of the hottest topics in tech and the world right now is AI. I want to write
 
 <div style="clear: both;"></div>
 
+<br>
+
 ## Personal Experience with AI
 
 <hr>
