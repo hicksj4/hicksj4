@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="img-fluid" src="../img/BECreativeInventory_(Pocket).png">
+<img width="450px" class="rounded float-start pe-4" src="../img/BECreativeInventory_(Pocket).png">
 
 <hr>
 
