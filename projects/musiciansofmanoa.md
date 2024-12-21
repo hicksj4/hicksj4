@@ -14,7 +14,16 @@ summary: "A Web Application Designed with React and PostgreSQL with the intent o
 
 <hr>
 
-<img class="img-fluid" src="../img/landingpage.png">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center; margin-right: 10px;">
+    <img class="img-fluid" src="../img/landingpage.png" alt="Landing Page" style="max-width: 48%; height: auto;">
+    <p><em>The landing page of the 'Musicians of Manoa' web application.</em></p>
+  </div>
+  <div style="text-align: center; margin-left: 10px;">
+    <img class="img-fluid" src="../img/feedpage.png" alt="Feed Page" style="max-width: 48%; height: auto;">
+    <p><em>The 'Search Jams' page displaying upcoming jam sessions.</em></p>
+  </div>
+</div>
 
 <hr>
 
