@@ -10,13 +10,11 @@ labels:
   - Github
 ---
 
-<hr>
 
 <div style="text-align: center;">
   <img class="img-fluid" src="../img/effort-meme2.jpg" alt="Effort Meme">
 </div>
 
-<hr>
 
 ## Introduction
 
