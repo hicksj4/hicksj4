@@ -19,6 +19,10 @@ labels:
 
 Looking back at this semester and in particular, the course ICS 314 : Software Engineering, I think it may have been one of the best courses I've taken during my CS degree. The course was fast paced and sometimes hard to keep up with, but was effective in teaching you general software engineering experience and knowledge overall. From the WOD's to the final project, I think this was a well designed course that should be an essential exeperience for anyone pursuing a software development driven career.
 
+<div style="clear: both;"></div>
+
+<br>
+
 ## Configuration Management
 
 <hr>
