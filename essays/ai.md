@@ -19,6 +19,8 @@ labels:
 
 One of the hottest topics in tech and the world right now is AI. I want to write about its connection with software engineering and the positives and negatives I perceive from AI, mainly in regard to coding and the software development industry in general. I will primarily be talking about ChatGPT as that is the AI I used almost predominately in this course and in outside endeavors.
 
+<div style="clear: both;"></div>
+
 ## Personal Experience with AI
 
 <hr>
