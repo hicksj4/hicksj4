@@ -20,15 +20,17 @@ summary: "Bank database application developed for ICS 212 class in C langugage. 
 
 ## Overview
 
+<hr>
+
 This project involved the development of a command-line-based bank database management system written in C. The application was designed to handle user records, allowing users to add, find, delete, and print account records in a linked list structure. The main challenge was implementing efficient data management while maintaining the integrity and performance of the system, especially when interacting with a growing database of records. Key features included reading and writing data to a file to ensure persistent storage, managing user inputs through a command-line interface, and implementing dynamic memory management to prevent leaks. This project provided an opportunity to explore real-world applications of data structures, file I/O, and command-line interaction in software development.
 
 My role in this project was to code the core logic and implementation of the bank database system independently. I was responsible for writing the functions that managed the linked list of records, such as adding, finding, and deleting records, as well as reading from and writing to a file. I also interacted with the command line extensively to test and refine the application's performance, ensuring all features worked as intended. While the professor provided a general structure and guidelines for the project, I took full control of the implementation, focusing on problem-solving and debugging as I built the application from the ground up.
 
 This project was a valuable learning experience in understanding the intricacies of memory management in C, particularly the critical importance of properly managing dynamic memory allocation and deallocation. I gained hands-on experience with pointers, which are more abstracted away in languages like Java and C#, highlighting how direct manipulation of memory can impact application stability and performance. Working with C also taught me to pay closer attention to error handling, debugging, and efficient code practices to prevent issues such as memory leaks and segmentation faults. Overall, the project deepened my appreciation for low-level programming and the careful attention required when working closely with system resources.
 
-<hr>
-
 ## Code Snippet of the user_interface
+
+<hr>
 
 <pre><code class="language-c">
 
