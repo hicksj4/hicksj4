@@ -29,11 +29,15 @@ summary: "A Web Application Designed with React and PostgreSQL with the intent o
 
 ## Overview
 
+<hr>
+
 The "Musicians of Manoa" project is a web application designed to help local musicians connect, collaborate, and find jam sessions. It provides a user-friendly interface featuring a dynamic feed of upcoming jams, a searchable database of musician profiles, and tools for creating new jam events. Through role-based access, admins can manage users and edit site content, while general users can explore and attend jams. The application leverages Next.js, React, Prisma, and PostgreSQL for a modern, performant experience. Ultimately, it aims to foster a vibrant community of musicians who can easily discover and engage with one another.
 
 <hr>
 
 ## My Contributions and What I Learned
+
+<hr>
 
 In this project, I focused on refining both the front-end design and the underlying code to ensure a smooth and visually appealing user experience. This included implementing a global font, adjusting gradients and colors to align with the site’s theme, and generally adjusting the UI elements overall. I also worked on layout spacing, the catchphrase, images, and the buttons better aligned and visually balanced. On the back-end and testing side, I worked on fixing seed data and ensuring that pages such as the “Feed” and “Search” loaded correctly and met the project's requirements.
 
@@ -42,5 +46,7 @@ I learned a great deal from this project, particularly about building a full-sta
 <hr>
 
 ## Our Github Organization Page
+
+<hr>
 
 [Musicians of Manoa](https://musicians-of-manoa.github.io/)
