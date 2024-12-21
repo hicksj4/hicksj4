@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/musicians-of-manoa-logo2.png
+image: img/musiciansofmanoa-logo-green.png
 title: "Musicians of Manoa"
 date: 2024
 published: true
