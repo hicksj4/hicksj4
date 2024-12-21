@@ -13,11 +13,17 @@ labels:
 
 <img class="img-fluid" src="../img/ai-1.jpg">
 
+<hr>
+
 ## Introduction
+
+<hr>
 
 One of the hottest topics in tech and the world right now is AI. I want to write about its connection with software engineering and the positives and negatives I perceive from AI, mainly in regard to coding and the software development industry in general. I will primarily be talking about ChatGPT as that is the AI I used almost predominately in this course and in outside endeavors.
 
 ## Personal Experience with AI
+
+<hr>
 
 1. Experience WODs : For the most part in this section I did not use the AI unless I was severely stuck. The main reason why I avoided using the AI here is because the video is fairly easy to follow, even when there were times when the technologies didn't line up exactly, I found it easy enough to get through the experience without using AI.
 2. In-class Practice WODs : Did not participate in these very often but when I did, I didn't use AI really. Because our class, and therefore the in-class WODs, was before the practice WOD's were released it was generally the same concept being covered.
@@ -36,24 +42,36 @@ One of the hottest topics in tech and the world right now is AI. I want to write
 
 ## Impact on Learning and Understanding
 
+<hr>
+
 I think AI has enhanced my understanding of software engineering concepts, but I understand that there is possbility that one may use it as a crutch such that they can't code themselves and I want to avoid that. I try to use ChatGPT as more like a "Google" type of tool as much as I can rather than just asking for answers to be copy and pasted.
 
 ## Practical Applications
+
+<hr>
 
 I think AI has a place in real world projects, but it can't be taken as gospel. I believe that ChatGPT from using it for quite awhile now will point you in generally good directions, it will also generate code that is generally good. But in specific scenarios it won't be exactly what you want. An example of this being with working on front end which I talk about in the next point. I watched a Youtube video of someone attempting to recreate someone else's website with little coding knowledge but just by only prompting ChatGPT. They got something going, but it wasn't close to quality of the original website. Though with a prompt like "Give me crash course of SQL syntax" ChatGPT feels extremely effective, and if you can ask it to give you code snippets to help interact with your database (assuming it understands your schema) it can be invaluable in teaching/reminding you of concepts quickly.
 
 ## Challenges and Opportunities
 
+<hr>
+
 There are certain things I feel that the AI can struggle with severely. One example was trying to understand the logic of why the Playwright tests were failing. I attempted to fix it myself and got nearly there, though I would say I did not have a complete understanding of how Playwright worked, I got the gist of it reading the test code. When I asked ChatGPT to help me understand why this last test wasn't passing, it attempted to show me reasons and fixes, but it did just not work. Similarly, like I talked about in the last point, ChatGPT, at least to my knowledge, cannot "see" another website, thus it cannot explicitly understand the design you may want unless you are incredibly specific.
 
 ## Comparative Analysis
+
+<hr>
 
 I think to build a strong foundation in software engineering education one must stick to mainly traditional teaching methods. I think one of the aspects of coding that really hammer home your knowledge is the feeling of struggling through a problem before you are able to finally figure it out. However, I think there is most certainly a place in using AI to enhance ones education too. Before ChatGPT was mainstream many people referred to stack overflow for certain problems, especially if the language you had to use was quite difficult to find documentation for (Racket, Lisp..) I think with ChatGPT this can speed up your understanding 10x instead of flipping through 10's or 100's of stack overflow questions that barely help you understand at all, while simultaneously making you feel stupid for not understanding the problem as well. Using AI is a double edged sword though, in that if you use it too much you'll learn nothing, but if you don't use it, you may waste significant time and mental energy.
 
 ## Future Considerations
 
+<hr>
+
 I think ChatGPT is here to stay and perhaps professors need to be aware of what it can do and how to address their courses accordingly. Something that comes to mind is how ICS 212 is formatted : The projects and assignments were all take home coding projects, but the quizzes and exams were all paper based. This could be effective in that you can use AI to help you if needed when you code, but you still need to understand the concepts of the course if you hope to pass the quizzes and exams.
 
 ## Conclusion
+
+<hr>
 
 Overall, I think it will be extremely interesting to see how AI use evolves in regard to education and the world in general. I think especially in Software Engineering courses students can really experience how powerful some of these AIs are getting first hand; it is quite incredible that an AI can almost entirely develop a working piece of software itself, that didn't seem possible even 3-4 years ago. I think personally my recommendation is similar to what I said in the previous point, I don't think we should completely stray from AI, but certain concepts should be tested without the possibility of using AI to really hammer down that the student really understands the important concepts we must take away from the course.
