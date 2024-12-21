@@ -6,7 +6,7 @@ title: "Effort Tracking : Or How To Underestimate How Long a Project Takes"
 date: 2024-12-20
 published: true
 labels:
-  - Production
+  - Software Development
   - Github
 ---
 
