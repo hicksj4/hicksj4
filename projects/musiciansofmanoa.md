@@ -34,4 +34,4 @@ I learned a great deal from this project, particularly about building a full-sta
 
 ## Our Github Organization Page
 
-[Musician's of Manoa](https://musicians-of-manoa.github.io/)
+[Musicians of Manoa](https://musicians-of-manoa.github.io/)
