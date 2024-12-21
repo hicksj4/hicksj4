@@ -30,3 +30,8 @@ In this project, I focused on refining both the front-end design and the underly
 
 I learned a great deal from this project, particularly about building a full-stack application from the ground up. Gaining hands-on experience with React in a larger codebase showed me how to structure components effectively and maintain clear connections between the front end and the back end. Through trial and error, I also developed a better understanding of how the database interacts with the client-side elements. Additionally, collaborating with teammates on GitHub introduced me to the workflow and communication practices needed to handle larger projects successfully.
 
+<hr>
+
+## Our Github Organization Page
+
+[Musician's of Manoa](https://musicians-of-manoa.github.io/)
