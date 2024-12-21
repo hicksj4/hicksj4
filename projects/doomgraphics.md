@@ -15,7 +15,10 @@ summary: "Exploring the innovative graphical techniques in Doom (1993) and Quake
 <hr>
 <img class="img-fluid" src="../img/bsp_doom_ssectors.png">
 
-*Visualization of Doom's Binary Space Partitioning (BSP) tree structure used for rendering subsectors.*
+<div style="text-align: center">
+<p><em>Visualization of Doom's Binary Space Partitioning (BSP) tree structure used for rendering subsectors.</em></p>
+</div>
+
 <hr>
 
 ## Overview
