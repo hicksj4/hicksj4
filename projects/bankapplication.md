@@ -18,8 +18,6 @@ summary: "Bank database application developed for ICS 212 class in C langugage. 
   <img class="img-fluid" src="../img/bankapp1.png" alt="Bank App Screenshot">
 </div>
 
-<hr>
-
 ## Overview
 
 <hr>
