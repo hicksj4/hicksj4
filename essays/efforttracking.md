@@ -10,6 +10,15 @@ labels:
   - Github
 ---
 
+<hr>
+<img class="img-fluid" src="../img/effort-meme2.jpg">
+
+<div style="text-align: center">
+<p><em>Visualization of Doom's Binary Space Partitioning (BSP) tree structure used for rendering subsectors.</em></p>
+</div>
+
+<hr>
+
 ## Introduction
 
 <hr>
