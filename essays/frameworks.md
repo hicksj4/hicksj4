@@ -15,13 +15,19 @@ labels:
 
 ## The Power of UI Frameworks in Web Development
 
+<hr>
+
 When diving into web development, one of the biggest challenges is managing the user interface (UI). On the surface, raw HTML and CSS might seem sufficient, but as projects scale, the complexities quickly emerge. This is where UI frameworks like Bootstrap 5 come in. They provide developers with a structured, consistent, and responsive foundation to build upon. The benefits of learning a framework make it well worth the investment if you are interested in front end development.
 
 ## Streamlining Development and Design
 
+<hr>
+
 One of the primary advantages of UI frameworks is how they speed up development. With pre-built components such as buttons, navigation bars, and forms, one can avoid the repetitive task of creating these elements from scratch. Bootstrap, for example, offers a grid system that enables responsive design out-of-the-box. This means less time spent adjusting layouts for different screen sizes, allowing developers to focus on other important tasks. In my personal experience with Bootstrap 5, I found that it significantly reduced the time it took to create a polished and professional-looking website. This is evident in exercises such like are WOD's where we make almost professional looking websites in under an hour, I'm sure someone who doesn't know web development at all would find that very impressive.
 
 An example of Bootstrap's Conciseness vs. Implementing in Raw HTML/CSS
+
+<hr>
 
 ```
 <div class="card" style="width: 18rem;">
