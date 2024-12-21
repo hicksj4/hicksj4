@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/office-1.jpg">
+<img width="450px" class="rounded float-start pe-4" src="../img/office-1.jpg">
 
 ## Introduction
 
