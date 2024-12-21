@@ -16,20 +16,24 @@ labels:
 
 Over the development of our project : Musicians of Manoa, we kept a time tracking of how long we would estimate each issue to take to finish. After we finished the issue we would then record the actual time it took to finish each issue, this led to some insights on the productivity and how my estimations on how long an issue will take were alnmost always incorrect.
 
-## Configuration Management
+## Method of Estimation
 
 <hr>
 
-One of the topics we had to learn about in this course was the concept of configuration management. It is somewhat hard to explain simply, but it is the concept of a project's overall version control and it's ability to be easily worked on with others. I believe that this is one of the critical foundations of this course that is generally not approached much in other more academic/theoretical courses. The reason I find this topic so impactful is that this is a real tool that is used almost everywhere in software engineering, if not through Github, then through another similar service. When one is able to learn Github effectively (which isn't particularly hard at all!) it makes it much easier to work on a project with teammates. The ability to have the different versions saved of a project as it is developed, the ability to check for conflicts between the old version and new version, the ability to see what code in particular was changed in the project, that and many more things that are possible in Github make development with others much easier. I think back on a project I did with a classmate where we had to development a medium sized program for a game, at that point we hadn't learned of Github so we would just email each other code attached as files. In one instance, we had accidentally deleted one of the files of code and thankfully with a solid hour of tinkering we managed to get it back. If we just had at the start used Github, this wouldn't have been a problem and we wouldn't have to sloppily email code back and forth with each other.
+For my method of estimation on how long an issue would take, there wasn't really a scientific methodology to my estimations besides gut feeling and how similar I found it to previous similar experiences we had. I think this hinges on how specific the issue is and contextualizing it with what you have done before. For example, one of the issues I worked on was "Create Landing Page". I estimated it to take 180 minutes, or 3 hours to complete. However, while the page was fairly straightforward to create, especially since the template files are already there, choosing the overall design and presentation of what the landing page should be takes a fair amount of time to think of. The landing page ending up taking me about 5 hours to complete, nearly double my intial estimate. The reason why is because I spent a fair amount of time figuring out the specific design I found visually appealing, choosing photos to convey what the app is about, and formatting it to an appealing presentation.
 
-## Agile Project Management/Issue Driven Project Management
-
-<hr>
-
-To tie the previous topic into my next one, the other concept we learned in class was a style of Agile development called Issue Driven Project Management. I think in concept this is much more simply explained in that in our project we designate what needs to be done as 'Issues', assigning members to each issue to complete. I think in tandem with the previous topic, this is an effective topic to learn as it works well with Github in that it smoothes out the ability of working on a project with teammates even more. By clearly created and assigning different issues that need to be addressed in the project, you are able to more easily know what you need to work on and what is being worked on by others. This will create less conflicts in development generally as one person won't be working on the same problem as someone else, wasting each others time. I think in a smaller project, this isn't as necessary, but in our final project this was a somewhat essential concept to help us work quickly to finish our final project. If we hadn't had this style of Agile management to build off of, I believe there would have been a lot more time wasted in figuring out who needs to do what and what is finished and what isn't.
-
-## Conclusion
+## Inaccuracy In Measurements
 
 <hr>
 
-Overall this course was a great course and I learned a lot. There are many other topics covered in this course I feel are just as essential as these two I just talked about which shows what an effective course this is. I will take a lot of the lessons I learned from this course moving forward in my career, something that I can't say about every course I've taken in university!
+Looking back at the data, I would say generally my estimations were always off in that it always took longer than I would estimate. I wouldn't be terribly off in my estimates, but it would always be around 30 to 2 hours longer in terms of actual effort than I had initially estimated. I generally don't think there was a benefit to these inital estimates because thankfully the way our efforts were structured between teammates, we didn't need to generally rely on each other to complete sections such that another member could start working. For example, since I worked a lot on the landing page, this wouldn't affect the 'Search Jams' page at all. The isolation of efforts helped our team work smoothly.
+
+<br>
+
+I believe there were some benefits in seeing the actual effort expended on issues. One being that it gives you insight on your own personal estimations of your skill and alotted time to complete a problem. What I took away from this project is that I generally underestimated the time I took to finish a problem and should give myself more time for each issue I assign myself to in the future.
+
+## Method of Actual Estimation
+
+<hr>
+
+I tracked my time efforts through my phone timer or a computer timer. I would usually set a time to work for (eg. 90 minutes) this method helps me focus on a task and when to take a bit of a break so I don't end up staring at the screen and being unproductive for stretches of time. I believe this method was accurate and generally I found myself working for longer than expected on an issue. So I would time go into the session with maybe two sessions of 90 minutes each for a problem (so 3 hours overall), I would find that after those 3 hours I would generally be nearly done and need maybe just a half hour longer to clean everything up and make sure the work I did is actually compatible with the final project overall.
