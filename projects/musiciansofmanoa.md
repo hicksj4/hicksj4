@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/musicians-of-manoa-logo2.png
 title: "Musicians of Manoa"
-date: 2017
+date: 2024
 published: true
 labels:
   - React
